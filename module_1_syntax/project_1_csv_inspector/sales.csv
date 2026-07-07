@@ -1,0 +1,6 @@
+txn_id,channel,amount,status,date
+txn_001,payments,1500.00,active,2024-08-01
+txn_002, Refunds,N/A, ACTIVE ,2024-08-02
+txn_003,payments,299.50,inactive,2024-08-03
+txn_004,TRANSFERS, 89.99 ,Active,2024-08-04
+txn_005,payments,,active,2024-08-05
